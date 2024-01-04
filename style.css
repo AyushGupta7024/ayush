@@ -201,7 +201,7 @@ section .title::after{
     display: flex;
     background: url("images/banner.jpg") no-repeat  center;
     height: 30vh;
-    color: rgba(175, 241, 9, 0.953);
+    color: rgba(215, 218, 20, 0.947);
     min-height: 800px;
     background-size: cover;
     background-attachment: fixed;
@@ -215,7 +215,8 @@ section .title::after{
   margin-right: 0;
 }
 .home .home-content .text-1{
-    font-size: 27px;
+    font-size: 35px;
+    font-weight: 400;
 }
 .home .home-content .text-2{
     font-size: 75px;
@@ -223,12 +224,12 @@ section .title::after{
     margin-left: -3px;
 }
 .home .home-content .text-3{
-    font-size: 40px;
+    font-size: 45px;
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: rgba(204, 207, 5, 0.739);
-    font-weight: 500;
+    color: rgba(232, 13, 28, 0.98);
+    font-weight: 600;
 }
 .home .home-content a{
     display: inline-block;
